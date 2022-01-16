@@ -1,6 +1,6 @@
 # Note Taker
 ## Purpose
-Full-stack application for note taking.
+Full-stack application for note taking. Allows user to create, save, and delete notes.
 ## Built With
 - HTML
 - CSS
@@ -9,7 +9,6 @@ Full-stack application for note taking.
 - JavaScript
 - Node.js
 - Express.js
-- Jest
 ## Walkthrough
 ![Walkthrough video comming soon!]()
 [Deployed application link coming soon]()
