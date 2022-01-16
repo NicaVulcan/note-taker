@@ -10,7 +10,7 @@ Full-stack application for note taking. Allows user to create, save, and delete 
 - Node.js
 - Express.js
 ## Walkthrough
-![Walkthrough video comming soon!]()
-[Deployed application link coming soon]()
+[Note Taker Application](https://frozen-crag-25746.herokuapp.com/)
+![Walkthrough video comming soon!](./images/note-taker-sc.png)
 ## Contribution
 Created by CSM
