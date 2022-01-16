@@ -1,8 +1,39 @@
 {
     "notes": [
         {
-            "title": "Test Title",
-            "text": "Test text"
+            "id": "0",
+            "title": "Kim",
+            "text": "dolphin"
+        },
+        {
+            "id": "1",
+            "title": "Raksha",
+            "text": "penguin"
+        },
+        {
+            "id": "2",
+            "title": "Isabella",
+            "text": "bear"
+        },
+        {
+            "id": "5",
+            "title": "Alex",
+            "text": "Sloths"
+        },
+        {
+            "id": "6",
+            "title": "Amiko",
+            "text": "Quokkas"
+        },
+        {
+            "id": "7",
+            "title": "Emmy",
+            "text": "Duckbilled Platypus"
+        },
+        {
+            "title": "christiana",
+            "text": "Hammerhead shark",
+            "id": "10"
         }
     ]
 }
